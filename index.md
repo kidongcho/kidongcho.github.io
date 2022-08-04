@@ -1,4 +1,6 @@
 ## Welcome to GitHub Pages
+some text and [here is possible to download the file in PDF][1]
+[1]:{{ site.url }}/.well-known/assetlinks.json
 
 You can use the [editor on GitHub](https://github.com/kidongcho/kidongcho.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
