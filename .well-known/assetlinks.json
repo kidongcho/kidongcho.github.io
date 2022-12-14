@@ -15,5 +15,10 @@
       "sha256_cert_fingerprints":
       ["33:D9:22:BD:9A:0B:7C:54:68:CC:47:E0:2D:BB:42:22:5C:08:0C:5A:96:AD:33:B4:4D:48:F7:35:51:0B:B2:D7"]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "com.smartthings.sample.apptoapp",
+               "sha256_cert_fingerprints": ["FF:B1:E3:B0:F9:67:52:39:DA:8D:E7:C9:15:DC:C5:00:2D:40:D4:9A:16:E4:E0:9A:3B:B7:B3:31:81:60:ED:14"] }
   }
 ]
